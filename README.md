@@ -1,5 +1,8 @@
 # [Sly](http://darsa.in/sly)
 
+一个方向滚动插件，可以依赖jquery1.7+，可以选择不依赖
+[demo](http://www.lanrentuku.com/down/js/tupian-901/)
+
 JavaScript library for one-directional scrolling with item based navigation support.
 
 Sly supports navigation with:
